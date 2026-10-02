@@ -1,0 +1,20 @@
+{
+  "id": 1459,
+  "title": "Renewable Energy Trainer Progress Saving",
+  "repository_slug": "renewable-energy-trainer-progress-saving",
+  "category": "Education",
+  "platform": "micro:bit",
+  "platform_family": "microbit",
+  "difficulty": "Advanced",
+  "estimated_hours": 44,
+  "connectivity": "Wi-Fi",
+  "components": [
+    "buttons",
+    "current sensor"
+  ],
+  "scope": "Build a education prototype that uses buttons, current sensor to save completed lessons locally. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Progress Saving demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "firmware/main.py",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
